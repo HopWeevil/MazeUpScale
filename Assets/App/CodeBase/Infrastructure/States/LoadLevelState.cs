@@ -2,7 +2,6 @@
 using CodeBase.Data;
 using CodeBase.Infrastructure.Factories;
 using CodeBase.Infrastructure.Sceneloader;
-using CodeBase.Logic;
 using CodeBase.Logic.Maze;
 using CodeBase.Logic.Player;
 using CodeBase.Services.PersistentProgress;

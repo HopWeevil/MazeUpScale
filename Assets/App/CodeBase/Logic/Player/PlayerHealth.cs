@@ -5,7 +5,6 @@ namespace CodeBase.Logic.Player
 {
     public class PlayerHealth : MonoBehaviour
     {
-
         [SerializeField] private float _current;
         [SerializeField] private float _max;
 

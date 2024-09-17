@@ -1,5 +1,4 @@
 ﻿using CodeBase.Infrastructure.Factories;
-using System;
 using UnityEngine;
 using Zenject;
 
@@ -7,7 +6,6 @@ namespace CodeBase.Logic.Player
 {
     public class PlayerDeath : MonoBehaviour
     {
-
         [SerializeField] private PlayerHealth _health;
         [SerializeField] private AudioClip _death;
 

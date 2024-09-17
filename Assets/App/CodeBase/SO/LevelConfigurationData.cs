@@ -16,7 +16,5 @@ namespace CodeBase.SO
 
         [field: SerializeField] public MazeTheme MazeTheme { get; set; }
 
-
-
     }
 }
