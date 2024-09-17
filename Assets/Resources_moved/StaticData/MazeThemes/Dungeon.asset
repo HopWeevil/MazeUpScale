@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee292a295f55d9349842bc0d3992c255, type: 3}
+  m_Name: Dungeon
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: 
+  <Theme>k__BackingField: 0
+  <Floor>k__BackingField:
+    m_AssetGUID: ee6684717ba67ef429ec9ef05a68c855
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  <TrapFloor>k__BackingField:
+    m_AssetGUID: 8f5e66eee4a218a48bb2d29a56e1ddb0
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  <Pillar>k__BackingField:
+    m_AssetGUID: fb0610c46d1e4db4ebec46de7b7604e6
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  <Escape>k__BackingField:
+    m_AssetGUID: 5fce3c5ea6fa6454c8e1116246a4f3a5
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  <Walls>k__BackingField:
+  - WallPrefab:
+      m_AssetGUID: 3288a17f68507614c949fea914fe5ec6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    SpawnChance: 70
+  - WallPrefab:
+      m_AssetGUID: a2df72fcd22345343960116a3e4911a9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    SpawnChance: 30
+  - WallPrefab:
+      m_AssetGUID: 5aae8a8b54dd76d47884921410318ab0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    SpawnChance: 50
+  - WallPrefab:
+      m_AssetGUID: 30690ca8adc448d4292bc1bc746fec5d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    SpawnChance: 20
+  - WallPrefab:
+      m_AssetGUID: ee57006845df41742b6d3be33eb7565d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    SpawnChance: 10
+  - WallPrefab:
+      m_AssetGUID: fd016a96fb5dd574daf759ed3a154f03
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    SpawnChance: 5
+  - WallPrefab:
+      m_AssetGUID: 4c11ce0c4c6c3f2469718ded0d3d39b7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    SpawnChance: 80

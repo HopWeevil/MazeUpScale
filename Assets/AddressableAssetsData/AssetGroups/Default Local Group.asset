@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 05fbc7e6763226f4d9501a8bc1128c9f
+  m_SerializeEntries:
+  - m_GUID: 0c75a689e60ce144898d6edeb730010a
+    m_Address: Hud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f457123804a524140a9f1fea3c8bf5bb
+    m_Address: PopupMessage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21a6fb565df44c947b2facee57edad91
+    m_Address: UIRoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b457e2b985079dc439081186be70d22c
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f175740fec2e6b64fb642c274b35e6d4
+    m_Address: StaticData/Levels
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LevelConfiguration
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d0afaaade3f4f24caf69e04d03ac889
+    m_Address: StaticData/MazeConfiguration
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MazeConfiguration
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d55155e50641b04195284eec57d08c6
+    m_Address: StaticData/MazeThemes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MazeTheme
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89128cf4a9e2a0a4a886e9a193dd7934
+    m_Address: Dungeon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37338b334401cfc4eb3a8f066d6266f4
+    m_Address: Key
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 682985c6e6638d74d969018bb1d5e35e
+    m_Address: LevelCompletePanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 348ddd3944d58484d8aeaf77629fd29f
+    m_Address: LevelFailedPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2efddd2b433e53d459d9f5bdea46cf9c
+    m_Address: MenuWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 90a96d54bc46ea94c889e5134078837e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e8fa21c84475a84395add6c3ee08a1b, type: 2}
+    - {fileID: 11400000, guid: b8249c908766cd54c862b0ab6b9fc399, type: 2}
